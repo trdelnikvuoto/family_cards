@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    font-family: 'IBM Plex Mono', monospace;
+    background-color: #081820;
+    color: #88c070;
+    font-weight: bold;
+
+}
+
+.family-list {
+    list-style: none;
+    
+}
+
+.family-list li:hover {
+    list-style-type:disc;
+}
+
+.family-list li a {
+    text-decoration: none;
+    color: #88c070;
+}
+
+
+
+h1 {
+    font-family: 'Press Start 2P', cursive;
+}
